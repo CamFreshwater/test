@@ -17,5 +17,5 @@ knitr-cache
 .RData
 .RHistory
 hake-example.tex
-*.pdf
+
 myNotes.*
